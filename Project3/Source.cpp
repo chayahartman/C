@@ -8,7 +8,7 @@ typedef struct {
 	int day;
 	int month;
 	int year;
-	лл
+
 }date;
 
 typedef struct {
