@@ -13,7 +13,7 @@ typedef struct {
 
 typedef struct {
 
-	int code;
+	int code;ggg
 	char name[12];
 	float price;
 	date finalDate;
